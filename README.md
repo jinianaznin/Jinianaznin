@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am Jinianaznin
+I am Jinia Naznin
 
 🎓 CSE Student (2nd Semester)
 
