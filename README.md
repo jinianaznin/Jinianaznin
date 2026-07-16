@@ -8,7 +8,7 @@ I am Jinia Naznin
 
 💻 Beginner in Programming
 
-🚀 Goal: Become a Software Engineer
+🚀 Goal: Become a AI Engineer
 
 📚 Learning every day
 
