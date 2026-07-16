@@ -11,3 +11,16 @@ I am Jinia Naznin
 🚀 Goal: Become a Software Engineer
 
 📚 Learning every day
+
+
+
+## 📚 Currently Learning
+
+- C Programming
+- Problem Solving
+
+## 🎯 2026 Goals
+
+- Learn C
+- Learn Git & GitHub
+- Build 10 C Projects
